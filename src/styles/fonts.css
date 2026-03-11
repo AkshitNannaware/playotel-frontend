@@ -1,0 +1,10 @@
+/* Custom Font Definitions */
+
+/* Fonts are loaded via Google Fonts in index.html */
+
+/* Apply fonts to Tailwind layers */
+:root {
+  --font-serif: 'Playfair Display', serif;
+  --font-script: 'Great Vibes', cursive;
+  --font-sans: 'Inter', sans-serif;
+}

@@ -1,0 +1,11 @@
+Booking ID,Service ID,Service Name,Category,Date,Time,Guests,Guest Name,Guest Email,Guest Phone,Status,Special Requests
+SERVICE-001,,In-Room Dining,dining,2025-02-15,12:00 PM,2,Alex Morgan,alex.morgan@example.com,9876543210,confirmed,Vegetarian meal preferred
+SERVICE-002,,Fine Dining Restaurant,restaurant,2025-02-16,7:00 PM,4,Jamie Lee,jamie.lee@example.com,9876543211,pending,Window seat requested
+SERVICE-003,,Luxury Spa & Wellness,spa,2025-02-17,2:00 PM,1,Sarah Johnson,sarah.johnson@example.com,9876543212,confirmed,Deep tissue massage
+SERVICE-004,,Rooftop Bar,bar,2025-02-18,9:00 PM,3,Michael Chen,michael.chen@example.com,9876543213,pending,Anniversary celebration
+SERVICE-005,,In-Room Dining,dining,2025-02-19,8:00 AM,1,Emily Davis,emily.davis@example.com,9876543214,confirmed,Gluten-free breakfast
+SERVICE-006,,Fine Dining Restaurant,restaurant,2025-02-20,8:00 PM,2,David Wilson,david.wilson@example.com,9876543215,pending,Special dietary requirements
+SERVICE-007,,Luxury Spa & Wellness,spa,2025-02-21,10:00 AM,2,Lisa Anderson,lisa.anderson@example.com,9876543216,confirmed,Couples massage
+SERVICE-008,,Rooftop Bar,bar,2025-02-22,6:00 PM,5,Robert Taylor,robert.taylor@example.com,9876543217,pending,Corporate event
+SERVICE-009,,In-Room Dining,dining,2025-02-23,1:00 PM,3,Jennifer Brown,jennifer.brown@example.com,9876543218,confirmed,Children's menu needed
+SERVICE-010,,Fine Dining Restaurant,restaurant,2025-02-24,7:30 PM,2,Christopher Martinez,christopher.martinez@example.com,9876543219,pending,Quiet table preferred
