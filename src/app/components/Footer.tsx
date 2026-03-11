@@ -19,10 +19,9 @@ const Footer = ({ isAdmin = false }) => {
       <div className="relative max-w-7xl mx-auto px-6 py-10 md:py-12">
         {!isAdmin ? (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {/* ...existing code... (user footer content) */}
             <div>
               <h2 className="text-2xl mb-4 text-[#efece6]" style={{ fontFamily: "'Playfair Display', serif" }}>
-                On Earth
+                PLAYOTEL
               </h2>
               <nav className="space-y-2">
                 {[
